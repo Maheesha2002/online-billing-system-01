@@ -161,7 +161,7 @@ This project is developed for educational purposes as part of academic requireme
 
 ## 👨‍💻 Developer
 
-**Lakshani246**
+**Maheesha**
 - Final Year Project
 - BSc (Hons) in Software Engineering
 
@@ -172,4 +172,5 @@ This project is developed for educational purposes as part of academic requireme
 - Open source community for libraries used
 
 ---
+
 *Last Updated: January 2025*
